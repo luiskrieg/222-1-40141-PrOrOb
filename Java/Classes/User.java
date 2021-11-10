@@ -1,6 +1,8 @@
+package classes;
+
 public class User{
 
-    int id;
+    public int id;
     String full_name;
     String personal_email;
 
